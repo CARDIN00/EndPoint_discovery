@@ -4,6 +4,7 @@ This the python script for finding the endpoints discovery from reconnaissance o
 INSTALLATION
 
 1: pip install requests beautifulsoup4
+
 2: git clone https://github.com/CARDIN00/EndPoint_discovery.git
 
 # USE:
